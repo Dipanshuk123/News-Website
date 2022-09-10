@@ -8,7 +8,6 @@ const Head = () => {
           <div className='logo'>
           </div>
           <div className='ad'>
-            <img src='../images/headerb.png' alt='' />
           </div>
         </div>
       </section>
